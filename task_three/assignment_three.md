@@ -25,7 +25,7 @@
 
 7. Create a release your package
 
-
+![image](https://github.com/dheerajrp/Git-Studies/blob/master/task_three/images/release.PNG)
 
 8. Setup a Projects Board for your project.
 
