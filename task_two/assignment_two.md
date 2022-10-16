@@ -9,7 +9,7 @@ Consider that your want to start an open-source project in your organization. Pe
 ![image](https://github.com/dheerajrp/Git-Studies/blob/master/task_two/images/front.PNG)
 
 
-![image](https://github.com/dheerajrp/Git-Studies/blob/master/task_two/images/colloborators.PNG)
+![image](https://github.com/dheerajrp/Git-Studies/blob/master/task_two/images/collaborators.PNG)
 
 
 ![image](https://github.com/dheerajrp/Git-Studies/blob/master/task_two/images/pages.PNG)
