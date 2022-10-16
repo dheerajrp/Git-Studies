@@ -13,7 +13,7 @@
 
 4. Reject a pull request with proper comments.
 
-
+![image](https://github.com/dheerajrp/Git-Studies/blob/master/task_three/images/reject.PNG)
 
 5. Add a Dependabot alerts in your github.(for above cases)
 
