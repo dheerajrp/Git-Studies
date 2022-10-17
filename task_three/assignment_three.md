@@ -19,6 +19,8 @@
 
 ![image](https://github.com/dheerajrp/Git-Studies/blob/master/task_three/images/dependabot.PNG)
 
+![image](https://github.com/dheerajrp/Git-Studies/blob/master/task_three/images/dependabotconfig.png)
+
 6. Stash changes
 
 ![image](https://github.com/dheerajrp/Git-Studies/blob/master/task_three/images/stash.PNG)
